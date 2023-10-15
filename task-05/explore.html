@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0D1335;
+            background-size: cover;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #0B0B21;
+            opacity: 0.7;
+            padding: 5px 20px;
+            position: fixed;
+            width: 100%;
+            box-shadow: 0 0 14px rgba(0, 0, 0, 0.3);
+            top: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .box {
+            flex: 0 0 calc(25% - 20px);
+            background-color: #0B0B21;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 15px solid blue;
+            border-radius: 25px;
+            height: 250px;
+            width: 250px;
+        }
+
+        .box img {
+            height: 150px;
+            width: 50%;
+        }
+
+        .box .desc {
+            padding: 15px;
+            font-weight: bold;
+            color: white;
+        }
+
+        .box .price {
+            font-weight: bold;
+            color: white;
+        }
+
+        #logo {
+            width: 40px;
+            height: 40px;
+            cursor: pointer;
+        }
+
+        #social-links {
+            display: flex;
+            gap: 25px;
+        }
+
+        #social-links a img {
+            width: 30px;
+            height: 30px;
+            cursor: pointer;
+        }
+    </style>
+    <title>IMAGINE DRAGONS | SHOP</title>
+</head>
+<body>
+    <header>
+        <a href="shop_entry.html" id="Home"><img src="logo.png" alt="Imagine Dragons Logo" id="logo"></a>
+        <div id="social-links">
+            <a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"><img src="spotify.png" alt="Spotify"></a>
+            <a href="https://www.youtube.com/c/ImagineDragons"><img src="youtube.png" alt="YouTube"></a>
+            <a href="https://twitter.com/Imaginedragons"><img src="twitter.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com/imaginedragons/"><img src="instagram.png" alt="Instagram"></a>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="box">
+            <div class="img"><img src="origins_vinyl.png" alt=""></div>
+            <div class="desc">ORGINS VINYL+<br>DIGITAL ALBUM</div>
+            <div class="price">₹2800</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="floral_hoodie.png" alt=""></div>
+            <div class="desc">FLORAL LOGO TAN<br>HOODIE</div>
+            <div class="price">₹3200</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="next_to_me_poster.png" alt=""></div>
+            <div class="desc">NEXT TO ME A3<br>POSTER</div>
+            <div class="price">₹1800</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="cap.png" alt=""></div>
+            <div class="desc">VEGAS TRUCKER<br>HAT</div>
+            <div class="price">₹1500</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="imagine_poster.png" alt=""></div>
+            <div class="desc">IMAGINE A1<br>POSTER</div>
+            <div class="price">₹1800</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="mercury_I.png" alt=""></div>
+            <div class="desc">MERCURY-ACT 1<br>DELUXE CD</div>
+            <div class="price">₹1800</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="keychain.png" alt=""></div>
+            <div class="desc">IMAGINE DRAGONS<br>KEYCHAIN</div>
+            <div class="price">₹600</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="vintage_hoodie.png" alt=""></div>
+            <div class="desc">VINTAGE GRAPHIC<br>HOODIE</div>
+            <div class="price">₹2800</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="mercury_II.png" alt=""></div>
+            <div class="desc">MERCURY-ACT II<br>VINYL</div>
+            <div class="price">₹2200</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="bottle.png" alt=""></div>
+            <div class="desc">VINTAGE VEGAS<br>WATER BOTTLE</div>
+            <div class="price">₹2000</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="cassette.png" alt=""></div>
+            <div class="desc">NIGHT VISIONS<br>CASSETTE</div>
+            <div class="price">₹1100</div>
+        </div>
+
+        <div class="box">
+            <div class="img"><img src="tote.png" alt=""></div>
+            <div class="desc">BONES TREAT BAG</div>
+            <div class="price">₹1500</div>
+        </div>
+    </div>
+</body>
+</html>
