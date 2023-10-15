@@ -11,3 +11,22 @@ I am committed to giving my utmost effort and leveraging my skills to support th
 # DO YOU HAVE ANY FEEDBACK ON THE SELECTION PROCESS?
  I've had the opportunity to immerse myself in various fields and explore different programming languages, leading to a significant increase in my knowledge. While the journey has been both enjoyable and occasionally frustrating, I've found the entire experience to be incredibly enriching and well-structured. One highlight of this experience has been the exceptional doubt-solving support provided by our assigned seniors, which has been invaluable in helping me navigate through challenges
  
+## Tasks
+
+**TASKS LIST**|**TASK NAME**|**STATUS**
+--------------|---------------|---------------
+[Task-01]|Terminal Wizard|**Completed**
+[Task-02]|Lessgo Hugo|*Unattempted*
+[Task-03]|Hello World|**Partially done**
+[Task-04]|Competitive Programming|**6 out of 10**
+[Task-05]|Hypertext Mockup Language|**Completed**
+[Task-06]|Cricket Vault|**Completed**
+[Task-07]|AK-47℃|**Completed**
+[Task-08]|PokeSearch|*Unattempted*
+[Task-09]|GeoQuest|*Not adequate progress*
+[Task-10]|RuskOS|*Unattempted*
+[Task-11]|TinkerCAD|*Unattempted*
+[Task-12]|Godot|*Unattempted*
+[Task-13]|Vim|*Unattempted*
+[Task-14]|Bandit|**Completed**
+[Task-15]|Project Euler|**4 out of 5**
