@@ -1,6 +1,0 @@
-perfect number x= 6
-              y= 5
-
-second challenge x= 3 
-                 y=2
-
